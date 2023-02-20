@@ -1,7 +1,6 @@
 ## TV-Script-Generator
 Using LSTMs to generate a TV Script (Keras).
 
-You can go through my [blog](https://medium.com/@shivajbd/generating-a-tv-script-using-recurrent-neural-networks-dd0a645e97e7) for a detail insight on this project:
 
 ### Introduction
 
